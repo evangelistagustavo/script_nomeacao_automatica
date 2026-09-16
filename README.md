@@ -2,6 +2,9 @@
 
 Script Python que renomeia arquivos automaticamente, adicionando a data no início do nome.
 
+## Código
+![Código do Programa].(codigo_programa.png).
+
 ## Funcionalidade
 
 - Aceita múltiplas pastas, informadas pelo usuário em tempo de execução (Enter vazio encerra a entrada)
