@@ -3,7 +3,7 @@
 Script Python que renomeia arquivos automaticamente, adicionando a data no início do nome.
 
 ## Código
-![Código do Programa].(codigo_programa.png).
+<img width="1892" height="1280" alt="codigo_programa" src="https://github.com/user-attachments/assets/4ef6cc8a-3e9b-4bbf-b6f9-8f6b8e739ce5" />
 
 ## Funcionalidade
 
